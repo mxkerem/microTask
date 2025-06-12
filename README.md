@@ -10,6 +10,11 @@ A minimal decentralized application for paying freelancers for completed micro-t
 - ✅ **Modern UI** - Clean interface built with Next.js + Tailwind CSS
 - ✅ **Testnet Ready** - Configured for Stellar Testnet
 
+## Blockchain Info
+- **Contract ID**: `CAIWBU72Y7JPHTNOWRQFOAI4S3SFIWAFYXIFHU2RFCSUA2XJOG7OYWZR`
+- **Alias**: `micro_task_payment`
+- **Explorer Link**: https://stellar.expert/explorer/testnet/contract/CAIWBU72Y7JPHTNOWRQFOAI4S3SFIWAFYXIFHU2RFCSUA2XJOG7OYWZR
+
 ## 🛠 Tech Stack
 
 - **Frontend**: Next.js 15, TypeScript, Tailwind CSS
