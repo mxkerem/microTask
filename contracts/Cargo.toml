@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "micro_task_payment",
+]
+
+[workspace.dependencies]
+soroban-sdk = "20.0.0"
