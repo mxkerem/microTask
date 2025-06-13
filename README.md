@@ -96,10 +96,7 @@ contracts/
 
 ## 🌟 Development Notes
 
-- Contract integration is prepared but requires deployment
 - Frontend currently logs payment details to console
-- Ready for Testnet deployment following StellarDeploy.md
-- Follows PDR requirements for minimal, clean implementation
 
 ## 🔗 Links
 
